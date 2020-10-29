@@ -12,18 +12,19 @@
 
 ## Table of Content
 <pre>
-Report               : <a href=https://github.com/Al-Cap/>Main Source</a>
-Data               : <a href=https://github.com/Al-Cap/>Data Source</a>
-Graphs           : <a href=https://github.com/Al-Cap/>Modified Source</a>
+Report           : <a href=https://github.com/Al-Cap/MidTerm/blob/main/report.ipynb>Main</a>
+Data             : <a href=https://github.com/Al-Cap/MidTerm/blob/main/data>Data Source</a>
+Graphs           : <a href=https://github.com/Al-Cap/MidTerm/blob/main/graphs>Modals</a>
+Images           : <a href=https://github.com/Al-Cap/MidTerm/blob/main/images>Pictures</a>
 </pre>
 
 ## ReadME Navigation
 
-[Data](https://github.com/Al-Cap/#data) - 
-[Modeling](https://github.com/Al-Cap/s#modeling) - 
-[Results](https://github.com/Al-Cap/#results) - 
-[Future](https://github.com/Al-Cap/#future) - 
-[Project Info](https://github.com/Al-Cap/#project-info)
+[Data](https://github.com/Al-Cap/MidTerm#data) - 
+[Modeling](https://github.com/Al-Cap/MidTerm#modeling) - 
+[Results](https://github.com/Al-Cap/MidTerm#results) - 
+[Future](https://github.com/Al-Cap/MidTerm#future) - 
+[Project Info](https://github.com/Al-Cap/MidTerm#project-info)
 
 ## Data
 
