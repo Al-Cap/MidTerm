@@ -27,6 +27,7 @@ Data               : <a href=https://github.com/Al-Cap/>Data Source</a>
 
 ## Data
 
+Data retrieved from [kaggle.com](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings).
 
 
 ## Modeling
