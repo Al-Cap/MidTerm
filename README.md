@@ -1,5 +1,11 @@
 # Video Game Sales
 
+<p align="center">
+   <img src=https://github.com/Al-Cap/MidTerm/blob/main/images/.png />
+<div align="center">
+   <figcaption></figcaption>
+</div>
+</p>
 
 
 ## Overview
