@@ -51,7 +51,7 @@ Contributor  : <a href=https://github.com/Al-Cap>Alexander Caporale</a>
 <pre>
 Languages    : Python
 Tools/IDE    : Anaconda, Jupyter Notebook
-Libraries    : pandas, matplotlib, numpy, csv, utils, sklearn, statsmodels
+Libraries    : pandas, matplotlib, numpy, csv, scipy, sklearn, statsmodels
 </pre>
 
 <pre>
