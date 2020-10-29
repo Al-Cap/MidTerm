@@ -43,9 +43,15 @@ Data retrieved from [kaggle.com](https://www.kaggle.com/rush4ratio/video-game-sa
 
 ## Modeling
 
+Initial plot of North American Sales and Critic Scores
+
 ![scatter.jpg](https://github.com/Al-Cap/Video-Game-Sales-Analysis/blob/main/graphs/scatter_plot.jpg)
 
+Slop represented with the red line.
+
 ![linefit.jpg](https://github.com/Al-Cap/Video-Game-Sales-Analysis/blob/main/graphs/linefit_plot.jpg)
+
+Residual and Predition values with linear regression.
 
 ![regression.jpg](https://github.com/Al-Cap/Video-Game-Sales-Analysis/blob/main/graphs/regression_plot.jpg)
 
@@ -55,7 +61,14 @@ Data retrieved from [kaggle.com](https://www.kaggle.com/rush4ratio/video-game-sa
  
 ## Future
 
-Continouing this project, one could include user score in addition to critic score to determine how sales relate to them. The data can also be used to compare sales from other places as well.
+Continouing this project, one could include user score in addition to critic score to determine how sales relate to them. The data can also be used to compare sales from other places as well. Anoter way is to compare sales to the platform used to play games on or the developer as well.
+
+<p align="center">
+   <img src=https://github.com/Al-Cap/MidTerm/blob/main/images/index-6-1579289540.jpg />
+<div align="center">
+   <figcaption></figcaption>
+</div>
+</p>
 
 
 ## Project Info
