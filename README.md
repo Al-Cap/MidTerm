@@ -12,15 +12,15 @@
 
 ## Table of Content
 <pre>
-Code               : <a href=https://github.com/Al-Cap/>Main Source</a>
-Modeling           : <a href=https://github.com/Al-Cap/>Modified Source</a>
+Report               : <a href=https://github.com/Al-Cap/>Main Source</a>
 Data               : <a href=https://github.com/Al-Cap/>Data Source</a>
+Graphs           : <a href=https://github.com/Al-Cap/>Modified Source</a>
 </pre>
 
 ## ReadME Navigation
 
 [Data](https://github.com/Al-Cap/#data) - 
-[Graphs](https://github.com/Al-Cap/s#modeling) - 
+[Modeling](https://github.com/Al-Cap/s#modeling) - 
 [Results](https://github.com/Al-Cap/#results) - 
 [Future](https://github.com/Al-Cap/#future) - 
 [Project Info](https://github.com/Al-Cap/#project-info)
